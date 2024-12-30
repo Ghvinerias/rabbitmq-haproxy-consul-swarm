@@ -1,0 +1,1 @@
+# rabbitmq-haproxy-consul-swarm
